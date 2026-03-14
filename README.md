@@ -1,8 +1,7 @@
-============================================================
+
         intro.js — Task README
   A beginner's guide to creating and running a
-        JavaScript introduction script
-============================================================
+        JavaScript introduction script=
 
 ------------------------------------------------------------
 📋 PROJECT OVERVIEW
